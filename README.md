@@ -16,11 +16,11 @@
   **Screenshot**
   ![](https://github.com/smineyang/Resource/raw/master/ScreenShot/CardsLib/1.png?raw=true)  
   ![](https://github.com/smineyang/Resource/raw/master/ScreenShot/CardsLib/2.jpg?raw=true =722x400)
-  ![](https://github.com/smineyang/Resource/raw/master/ScreenShot/CardsLib/3.jpg?raw=true = =722x400)
-  ![](https://github.com/smineyang/Resource/raw/master/ScreenShot/CardsLib/4.jpg?raw=true = =722x400)  
-  ![](https://github.com/smineyang/Resource/raw/master/ScreenShot/CardsLib/5.png?raw=true = =722x400)
+  ![](https://github.com/smineyang/Resource/raw/master/ScreenShot/CardsLib/3.jpg?raw=true =722x400)
+  ![](https://github.com/smineyang/Resource/raw/master/ScreenShot/CardsLib/4.jpg?raw=true =722x400)  
+  ![](https://github.com/smineyang/Resource/raw/master/ScreenShot/CardsLib/5.png?raw=true =722x400)
   <video id="video" controls="" preload="none" poster="https://github.com/smineyang/Resource/raw/master/ScreenShot/CardsLib/1.png?raw=true">
-      <source id="mp4" src="https://github.com/smineyang/Resource/raw/master/ScreenShot/CardsLib/CardsLib.mp4" type="video/mp4">
+      <source id="mp4" src="https://github.com/smineyang/Resource/blob/master/ScreenShot/CardsLib/CardsLib.mp4?raw=true" type="video/mp4">
       <p>详细视频展示</p>
     </video>
        Demo 地址:[cardslib.demo](https://github.com/smineyang/Resource/raw/master/apk/CardsLib/it.gmariotti.cardslib.demo.apk)
