@@ -25,4 +25,3 @@
     </video>
        Demo 地址:[cardslib.demo](https://github.com/smineyang/Resource/raw/master/apk/CardsLib/it.gmariotti.cardslib.demo.apk)
      [cardslib.demo.extras](https://github.com/smineyang/Resource/raw/master/apk/CardsLib/it.gmariotti.cardslib.demo.extras.apk)
-  
