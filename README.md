@@ -19,6 +19,7 @@
   ![](https://github.com/smineyang/Resource/raw/master/ScreenShot/CardsLib/3.jpg?raw=true =722x400)
   ![](https://github.com/smineyang/Resource/raw/master/ScreenShot/CardsLib/4.jpg?raw=true =722x400)  
   ![](https://github.com/smineyang/Resource/raw/master/ScreenShot/CardsLib/5.png?raw=true =722x400)
+  
   详细视频演示：[vedio](https://github.com/smineyang/Resource/raw/master/ScreenShot/CardsLib/CardsLib.mp4?raw=true)
   
   Demo 地址:[cardslib.demo](https://github.com/smineyang/Resource/raw/master/apk/CardsLib/it.gmariotti.cardslib.demo.apk)
