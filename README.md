@@ -35,4 +35,5 @@
    MaterialList作为ListView的扩展，可以接收Cards集合（存储在CardList中，由类库提供）并且根据Android样式和设计模式进行显示。MaterialList兼容Android 2.3+。
    ![](https://github.com/smineyang/Resource/blob/master/ScreenShot/MaterialList/1.png?raw=true)
    ![](https://github.com/smineyang/Resource/blob/master/ScreenShot/MaterialList/2.png?raw=true)
+   
    Demo 地址:[MaterialList-sample-2.2.0.apk](https://github.com/smineyang/Resource/blob/master/apk/MaterialList/MaterialList-sample-2.2.0.apk?raw=true)
